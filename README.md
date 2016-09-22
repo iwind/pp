@@ -17,6 +17,7 @@ class InviteController extends \pp\Controller {
 	  	$this->view->saying = "Hello, World";
 		$this->display();
 	}
+}	
 ~~~
 
 ##View
